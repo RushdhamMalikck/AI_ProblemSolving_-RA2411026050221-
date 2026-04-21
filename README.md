@@ -111,4 +111,4 @@ Colors used: 3 out of 4 selected
 ---
 
 ## Live Website
-[Click here to view the interactive website](#)
+[Click here to view the interactive website](https://rushdhammalikck.github.io/AI_ProblemSolving_-RA2411026050221-/)
