@@ -111,4 +111,6 @@ Colors used: 3 out of 4 selected
 ---
 
 ## Live Website
-[Click here to view the interactive website](https://rushdhammalikck.github.io/AI_ProblemSolving_-RA2411026050221-/)
+[Click here to view the interactive website (GitHub Pages)](https://rushdhammalikck.github.io/AI_ProblemSolving_-RA2411026050221-/)
+
+[Click here to run the live Streamlit app](https://7npqdwfb3ohsya2r7hwoq4.streamlit.app/)
