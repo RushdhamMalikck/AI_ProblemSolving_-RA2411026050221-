@@ -102,11 +102,11 @@ Colors used: 3 out of 4 selected
 
 ---
 
-## Team
+## PRESENTED BY
 | Name | Register Number |
 |------|----------------|
 | RUSHDHAM MALIK CK | RA2411026050221|
-| SARVESH HS | RA2411026050213|
+
 
 ---
 
